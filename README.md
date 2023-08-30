@@ -1,5 +1,5 @@
-# FaceRecognition
-FaceRecognition but in python !
+# HandRecognition
+HandRecognition but in python !
 
 ## Information
 You can use this project for yourself
